@@ -1,4 +1,4 @@
-# Resume Review AI
+# Resume Review
 
 Resume Review AI is an intelligent application that leverages **Large Language Models (LLMs)** to analyze and improve resumes.  
 It provides actionable feedback on structure, keywords, and clarity, helping users optimize their resumes for technical or professional roles.
